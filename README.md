@@ -46,7 +46,6 @@ This project was created to:
 ## 🚀 Future Improvements
 
 - Improve mobile responsiveness
-- Add dark mode
 - Enhance accessibility (ARIA, contrast)
 - Rebuild using JavaScript or a frontend framework (React)
 
